@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: pink;
+}
+
+header {
+    background:lightgreen;
+    padding: .5em 0;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: black;
+    background: plum;
+    padding: 1rem;
+}
+
+h2 {
+    background: orange;
+}
+
+h3 {
+    background: lightyellow;
+    padding: .5em;
+}
+
+p {
+    padding: .5em;
+}
+
+section {
+    background:lightblue;
+    margin: 1em auto;
+    width: 94vw;
+}
+
+footer {
+    background: gray;
+    padding: .5em;
+}
